@@ -11,7 +11,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Runtime data 999
 pids 111
-*.pid
+*.pid222
 *.seed
 *.pid.lock
 
