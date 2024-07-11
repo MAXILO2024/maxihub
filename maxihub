@@ -53,7 +53,7 @@ typings/ 000
 # Optional eslint cache 666
 .eslintcache 666
 777
-# Microbundle cache
+# Microbundle cache 888
 .rpt2_cache/
 .rts2_cache_cjs/
 .rts2_cache_es/
