@@ -10,7 +10,7 @@ lerna-debug.log* 666...!@#
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 qq....!@#1234
 # Runtime data 999
-pids 111...
+pids 111...1234
 *.pid222@@@
 *.seed 333
 *.pid.lock 412344
